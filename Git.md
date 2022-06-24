@@ -82,8 +82,6 @@ Now you should go to your main projects folder or wherever you want the project 
 ### How to push your code to the repo.
 So you have opened the project in VScode and made some changes now you want to push your changes up to github.
 
-
-
 Once you have made a commit or several, it's time to push our changes to the Repo.
 
 ### Push the commit to GitHub
@@ -93,13 +91,9 @@ This pushes your repo from your local device to GitHub.
 
 Now go to github and create a new `Pull Request`. make sure to switch to the branch you made your commit on.
 
-
-
-
-
 Once you have created the new folder where you want to have the project located and you have created all the necessary files use the following command in the terminal, be sure to be in the folder that was created for the project to  open that project folder in VS Code. 
 
 `code .`
 
-### 4. Open project is VScode
+### 4. Open project in VScode
 Make sure you are in the home directory of the project and use `code .` to open the project in VSCode.
