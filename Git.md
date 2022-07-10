@@ -1,4 +1,5 @@
 # Git
+On Windows you should use Git Bash on Mac/Linux the command line terminal will work for this.
 
 Before we dive into git I think it is important to know the basic Linux commands to be able to navigate around the file system, how to create and edit files etc.
 
