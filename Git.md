@@ -43,7 +43,7 @@ Once you have made some progress it's time to make a commit.
 
 `git add file-name` This will add specific files that have been created or modified. *`file-name` the file name you have chosen*
 
-`git commit -m "This is a coment about the commit"` 
+`git commit -m "This is a comment about the commit"` 
 This will make a new commit to the branch you are on. Be sure to leave a comment as to what has been changed. This should have as many details as possible but keep it short. Good for in the future or when you need to revert to a previous version.
 
 
