@@ -25,6 +25,8 @@ I would create the folder and create all the necessary files such as: `index.htm
 You can create all the files in one command as follows:
 `touch index.html styles.css main.js`
 
+## Basic git commands
+
 `git init` This will tell Git to get ready to start watching your files for every change that occurs.
 
 `git log` This will show the git history of all the commits.
