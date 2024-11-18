@@ -3,6 +3,8 @@ On Windows you should use Git Bash on Mac/Linux the command line terminal will w
 
 Before we dive into git I think it is important to know the basic Linux commands to be able to navigate around the file system, how to create and edit files etc.
 
+## Basic Linux Commands
+
 `pwd` print working directory. This will show us the current working directory.
 
 `ls` This will list all the files and folders in the current directory.
